@@ -1,0 +1,6 @@
+@Student_StoredProcedure_HostAddress = http://localhost:5244
+
+GET {{Student_StoredProcedure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
